@@ -1,0 +1,9 @@
+.idea/
+*.iml
+*.iws
+.gradle
+build
+atlassian-ide-plugin.xml
+node_modules/
+npm-debug.log
+target
